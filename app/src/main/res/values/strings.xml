@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidHW1</string>
+    <string name="phoneNumber">手机号</string>
+    <string name="phoneNumberHint">请输入手机号</string>
+    <string name="password">密码</string>
+    <string name="passwordHint">请输入密码</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="read">读书</string>
+    <string name="playBall">打球</string>
+    <string name="listenMusic">听音乐</string>
+    <string name="Beijing">北京</string>
+    <string name="Shanghai">上海</string>
+    <string name="Wuhan">武汉</string>
+    <string name="Nanjing">南京</string>
+    <string name="Nanchang">南昌</string>
+    <string name="title">用户注册</string>
+    <string name="register">注册</string>
+    <string name="registerInfo">注册成功！</string>
+    <string name="sexNotRegInfo">还未填写性别！</string>
+    <string name="phoneNumberNotRegInfo">还未填写手机号码！</string>
+    <string name="passwordNotRegInfo">还未填写密码！</string>
+</resources>
